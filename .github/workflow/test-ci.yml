@@ -19,4 +19,7 @@ jobs:
     - name: Display Python version
       run: python -c "import sys; print(sys.version)"
 
+    - name: 아무거나 입력하기
+      run: echo "아무거나 입력해용"
+
       
